@@ -1,3 +1,12 @@
+/** Projeto desafio DIO "Escrevendo as classes de um jogo" feito em JavaScript \
+ * Por Victor Soares, Estudante de Ciência da Computação no IFSP-SBV
+ * 
+ * DIO's Challenge "Escrevendo as classes de um jogo" (Writing a game's classes) written
+ * in JavaScript. 
+ * By Victor Soares, Computer Science Student @ IFSP-SBV. 
+ * */  
+
+
 class hero{
     constructor(name, age, type){
         this.age = age;
